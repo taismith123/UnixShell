@@ -1,8 +1,8 @@
 /*
  * Tai Smith
- * COMP 350-001
+ * 
  * November 24, 2020
- * Final Checkpoint of the Unix ASH Shell Project: This program interactively executes
+ * This program interactively executes
  * single commands with or with out arguments and is supposed to
  * include redirection and batch processing.
  */
